@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Reactjs , React native**
 
-- 👨‍💻 All of my projects are available at(currently building) [https://tonysaran.000webhostapp.com/](https://tonysaran.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at(currently building) [https://tonysaran.netlify.app/](https://tonysaran.netlify.app/)
 
 - 📫 How to reach me   -- **tonysaran80@gmail.com**
 
-- 📄 Know about my experiences [Soon](Soon)
+- 📄 Know about my experiences [https://tonysaran.netlify.app/#experience](Soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
