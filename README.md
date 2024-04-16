@@ -15,7 +15,7 @@
 
 - 📫 How to reach me   -- **tonysaran80@gmail.com**
 
-- 📄 Know about my experiences [https://tonysaran.netlify.app/#experience](Soon)
+- 📄 Know about my experiences [https://tonysaran.netlify.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
